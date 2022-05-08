@@ -5,8 +5,6 @@
 
 [![npm](https://img.shields.io/npm/v/react-use-test?color=%231E90FF&label=npm&style=for-the-badge)](https://www.npmjs.com/package/react-use-test)
 
-<br />
-
 ## **Installation**
 
 ```bash
